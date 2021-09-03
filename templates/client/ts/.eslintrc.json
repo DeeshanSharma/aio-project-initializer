@@ -1,0 +1,24 @@
+{
+  "env": {
+    "es6": true,
+    "browser": true
+  },
+  "extends": ["airbnb-typescript", "prettier"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "project": "./tsconfig.json",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "plugins": [
+    "import",
+    "react",
+    "react-hooks",
+    "@typescript-eslint",
+    "prettier"
+  ],
+  "rules": {},
+  "root": true
+}
