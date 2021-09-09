@@ -9,9 +9,6 @@
     "ecmaVersion": 6,
     "project": "./tsconfig.json"
   },
-  "plugins": ["@typescript-eslint", "prettier"],
-  "rules": {
-    "import/extensions": ["off", "never"],
-    "import/no-extraneous-dependencies": ["off", "never"]
-  }
+  "plugins": ["import", "@typescript-eslint", "prettier"],
+  "rules": {}
 }
