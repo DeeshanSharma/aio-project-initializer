@@ -1,6 +1,6 @@
 {
   "name": "aio-project-initializer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A CLI to initialize a project, configure & setup all the tools and do all the heavy lifting on your behalf",
   "main": "dist/index.js",
   "types": "dist/@types/index.d.ts",
