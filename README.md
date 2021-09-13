@@ -1,8 +1,8 @@
-<!-- <div align="center">
+<div align="center">
 
-<img width=200px src="assets/aio-project-initializer-logo.png" alt="Project logo">
+<img width=300px src="assets/aio-project-initializer-logo.png" alt="Project logo">
 
-</div> -->
+</div>
 
 <h1 align="center">aio-project-initializer</h1>
 
@@ -32,14 +32,6 @@
 
 <hr />
 <br />
-
-<!-- <div align="center">
-
-![Project Demo Gif](assets/demo-aio-project-initializer.gif)
-
-</div>
-
-<hr /> -->
 
 <p align="center">AIO Project Initializer is a simple command-line tool but it will be your saviour because it will setup any type of project you want to start doesn't matter it is Front End, Back End or even Full Stack. It will also setup all the necessary tools for you no matter what language you are using whether TypeScript or JavaScript it will configure the project according to the selected language.</p>
 
