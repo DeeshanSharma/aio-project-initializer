@@ -5,8 +5,9 @@
   "main": "dist/index.js",
   "types": "dist/@types/index.d.ts",
   "files": [
-    "dist",
-    "templates"
+    "assets/",
+    "dist/",
+    "templates/"
   ],
   "bin": {
     "aio-initialize": "dist/index.js"
